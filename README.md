@@ -1,0 +1,2 @@
+# javascript-project
+belajar javascript
